@@ -14,7 +14,6 @@
         <div class="card-body bg-gradient-primary" width="30rem" >
         @yield('content')
         </div>
-       <h6><center>Rahul kumar Thakur</center> </h6>
     </div>
 </body>
 </html>
